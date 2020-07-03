@@ -1,0 +1,4 @@
+com/query/runner/TestRunner.class
+com/query/repository/EmployeeRepository.class
+com/query/entity/Employee.class
+com/query/JpaQueryApproachesApplication.class
